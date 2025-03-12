@@ -246,7 +246,7 @@ footer a {
     aspect-ratio: 16/9;
   }
 
-  .secondary-section {
-    padding: 10px;
+  section {
+    padding: 50px;
   }
 }
